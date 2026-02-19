@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bgucluturk
 - 👀 I write applications with Java spring boot.
-- I'm backing up small projects here.
 - 📫 How to reach me : bgucluturk2905@gmail.com 
 
 <!---
